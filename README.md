@@ -69,5 +69,5 @@ TELEGRAM_TOKEN = '...'
 python kittybot.py
 ```
 
-- Levushkin Nikita,
-- https://github.com/Rederickmind
+- Dovgopol Vadim
+- https://github.com/Vadim7744
